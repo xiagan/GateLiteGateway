@@ -35,21 +35,21 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="9">
-      <module name="GateLiteGateway" target="17" />
-      <module name="GateLiteGateway-Client" target="17" />
-      <module name="GateLiteGateway-Common" target="17" />
-      <module name="GateLiteGateway-Config-Center" target="17" />
-      <module name="GateLiteGateway-Config-Center-Api" target="17" />
-      <module name="GateLiteGateway-Config-Center-Nacos-Impl" target="17" />
-      <module name="GateLiteGateway-Core" target="17" />
-      <module name="GateLiteGateway-Dubbo" target="17" />
-      <module name="GateLiteGateway-Dubbo-Interface" target="17" />
-      <module name="GateLiteGateway-Dubbo-Service" target="17" />
-      <module name="GateLiteGateway-Dubbo-Web" target="17" />
-      <module name="GateLiteGateway-Http" target="17" />
-      <module name="GateLiteGateway-Register-Center" target="17" />
-      <module name="GateLiteGateway-Register-Center-Api" target="17" />
-      <module name="GateLiteGateway-Register-Center-Nacos-Impl" target="17" />
+      <module name="GateLiteGateway" target="1.8" />
+      <module name="GateLiteGateway-Client" target="1.8" />
+      <module name="GateLiteGateway-Common" target="1.8" />
+      <module name="GateLiteGateway-Config-Center" target="1.8" />
+      <module name="GateLiteGateway-Config-Center-Api" target="1.8" />
+      <module name="GateLiteGateway-Config-Center-Nacos-Impl" target="1.8" />
+      <module name="GateLiteGateway-Core" target="1.8" />
+      <module name="GateLiteGateway-Dubbo" target="1.8" />
+      <module name="GateLiteGateway-Dubbo-Interface" target="1.8" />
+      <module name="GateLiteGateway-Dubbo-Service" target="1.8" />
+      <module name="GateLiteGateway-Dubbo-Web" target="1.8" />
+      <module name="GateLiteGateway-Http" target="1.8" />
+      <module name="GateLiteGateway-Register-Center" target="1.8" />
+      <module name="GateLiteGateway-Register-Center-Api" target="1.8" />
+      <module name="GateLiteGateway-Register-Center-Nacos-Impl" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
