@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GateLiteGateway.iml" filepath="$PROJECT_DIR$/GateLiteGateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GateLiteGateway-Client/GateLiteGateway-Client.iml" filepath="$PROJECT_DIR$/GateLiteGateway-Client/GateLiteGateway-Client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GateLiteGateway-Common/GateLiteGateway-Common.iml" filepath="$PROJECT_DIR$/GateLiteGateway-Common/GateLiteGateway-Common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GateLiteGateway-Config-Center/GateLiteGateway-Config-Center.iml" filepath="$PROJECT_DIR$/GateLiteGateway-Config-Center/GateLiteGateway-Config-Center.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GateLiteGateway-Config-Center/GateLiteGateway-Config-Center-Api/GateLiteGateway-Config-Center-Api.iml" filepath="$PROJECT_DIR$/GateLiteGateway-Config-Center/GateLiteGateway-Config-Center-Api/GateLiteGateway-Config-Center-Api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GateLiteGateway-Config-Center/GateLiteGateway-Config-Center-Nacos-Impl/GateLiteGateway-Config-Center-Nacos-Impl.iml" filepath="$PROJECT_DIR$/GateLiteGateway-Config-Center/GateLiteGateway-Config-Center-Nacos-Impl/GateLiteGateway-Config-Center-Nacos-Impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GateLiteGateway-Core/GateLiteGateway-Core.iml" filepath="$PROJECT_DIR$/GateLiteGateway-Core/GateLiteGateway-Core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GateLiteGateway-Dubbo/GateLiteGateway-Dubbo.iml" filepath="$PROJECT_DIR$/GateLiteGateway-Dubbo/GateLiteGateway-Dubbo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GateLiteGateway-Dubbo/GateLiteGateway-Dubbo-Interface/GateLiteGateway-Dubbo-Interface.iml" filepath="$PROJECT_DIR$/GateLiteGateway-Dubbo/GateLiteGateway-Dubbo-Interface/GateLiteGateway-Dubbo-Interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GateLiteGateway-Dubbo/GateLiteGateway-Dubbo-Service/GateLiteGateway-Dubbo-Service.iml" filepath="$PROJECT_DIR$/GateLiteGateway-Dubbo/GateLiteGateway-Dubbo-Service/GateLiteGateway-Dubbo-Service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GateLiteGateway-Dubbo/GateLiteGateway-Dubbo-Web/GateLiteGateway-Dubbo-Web.iml" filepath="$PROJECT_DIR$/GateLiteGateway-Dubbo/GateLiteGateway-Dubbo-Web/GateLiteGateway-Dubbo-Web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GateLiteGateway-Http/GateLiteGateway-Http.iml" filepath="$PROJECT_DIR$/GateLiteGateway-Http/GateLiteGateway-Http.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GateLiteGateway-Register-Center/GateLiteGateway-Register-Center.iml" filepath="$PROJECT_DIR$/GateLiteGateway-Register-Center/GateLiteGateway-Register-Center.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GateLiteGateway-Register-Center/GateLiteGateway-Register-Center-Api/GateLiteGateway-Register-Center-Api.iml" filepath="$PROJECT_DIR$/GateLiteGateway-Register-Center/GateLiteGateway-Register-Center-Api/GateLiteGateway-Register-Center-Api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GateLiteGateway-Register-Center/GateLiteGateway-Register-Center-Nacos-Impl/GateLiteGateway-Register-Center-Nacos-Impl.iml" filepath="$PROJECT_DIR$/GateLiteGateway-Register-Center/GateLiteGateway-Register-Center-Nacos-Impl/GateLiteGateway-Register-Center-Nacos-Impl.iml" />
+    </modules>
+  </component>
+</project>
